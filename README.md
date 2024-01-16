@@ -1,5 +1,3 @@
 # ComfyUI Multi-Workspace
 
-A simple, quick, and dirty implementation multi-workspace support within the comfyui
-
-
+A simple, quick, and dirty implementation of multiple workspaces within ComfyUI.
